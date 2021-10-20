@@ -1,0 +1,22 @@
+These are the points to decide a suitable framework for your e-commerce:
+
+How easy it is to change UI, does it have pluggable, customisable themes available in the market?
+How much customization can be done to the framework to suit your need.
+How many plugins are available for the framework.
+How strong is the developer community.
+What is the development time needed to get your idea to life.
+Does it have frequent security updates released.
+Will it provide REST API to develop mobile apps.
+How scalable it is to support your application growth.
+
+
+
+Why to Choose Django to build an e-Commerce application?
+Every e-commerce application is dealt with buying and selling. So, it is all dealing with money. So, here are the factors that affect your application to go down in this competitive digital market. 
+
+User Experience
+How fast the application is being loaded
+Security
+Scalability
+Feature-Rich
+Reliability
